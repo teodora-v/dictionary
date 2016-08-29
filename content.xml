@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Words wordCount="10">
+  <Word id="1">
+    <en_trans en_transcription="skuul" en_type="noun">School</en_trans>
+    <de_trans de_transcription="di shule" de_type="Substantiv">die Schule</de_trans>
+    <bg_trans bg_transcription="utshilishte" bg_type="същ. име">Училище</bg_trans>
+    <imgURL>http://static3cdn.echalk.net/www/ud00/0/08f0bb6891474a62aa9b9cbc92bd397a/Personal_Images/school.jpg</imgURL>
+  </Word>
+  <Word id="2">
+    <en_trans en_transcription="plei" en_type="verb">play</en_trans>
+    <de_trans de_transcription="spiilen" de_type="Verb">spielen</de_trans>
+    <bg_trans bg_transcription="igraya" bg_type="глагол">играя</bg_trans>
+    <imgURL>http://fusion.ddmcdn.com/kids/uploads/soccer-article3-300.jpg</imgURL>
+  </Word>
+  <Word id="3">
+    <en_trans en_transcription="hors" en_type="noun">Horse</en_trans>
+    <de_trans de_transcription="der pferd" de_type="Substantiv">der Pferd</de_trans>
+    <bg_trans bg_transcription="kon" bg_type="същ. име">Кон</bg_trans>
+    <imgURL>http://www.howrse.com/media/equideo/image/chevaux/adulte/americain/normal/300/bai_v1828806360.png</imgURL>
+  </Word>
+  <Word id="4">
+    <en_trans en_transcription="helti" en_type="adjective">healthy</en_trans>
+    <de_trans de_transcription="gezund" de_type="Adjective">gesund</de_trans>
+    <bg_trans bg_transcription="zdrav" bg_type="прил. име">здрав</bg_trans>
+    <imgURL>http://www.sanmigueldeaguayo.com/wp-content/uploads/2015/10/8.jpg</imgURL>
+  </Word>
+  <Word id="5">
+    <en_trans en_transcription="dok" en_type="noun">Dog</en_trans>
+    <de_trans de_transcription="der hund" de_type="Substantiv">der Hund</de_trans>
+    <bg_trans bg_transcription="kutshe" bg_type="същ. име">Куче</bg_trans>
+    <imgURL>http://www.dogchannel.com/images/articles/breed_profile_images/canaan-dog.jpg</imgURL>
+  </Word>
+  <Word id="6">
+    <en_trans en_transcription="ket" en_type="noun">Cat</en_trans>
+    <de_trans de_transcription="di katse" de_type="Substantiv">die Katze</de_trans>
+    <bg_trans bg_transcription="kotka" bg_type="същ. име">Котка</bg_trans>
+    <imgURL>http://www.vetprofessionals.com/catprofessional/images/home-cat.jpg</imgURL>
+  </Word>
+  <Word id="7">
+    <en_trans en_transcription="bear" en_type="noun">Bear</en_trans>
+    <de_trans de_transcription="der baer" de_type="Substantiv">der Bär</de_trans>
+    <bg_trans bg_transcription="mechka" bg_type="същ. име">Мечка</bg_trans>
+    <imgURL>http://www.nwf.org/~/media/Content/NWM/Animals/Mammals/brown-bear-cub-waving-Kevin-Dietrich-570x375.ashx</imgURL>
+  </Word>
+  <Word id="8">
+    <en_trans en_transcription="jiraf" en_type="noun">Giraffe</en_trans>
+    <de_trans de_transcription="die girafe" de_type="Substantiv">die Giraffe</de_trans>
+    <bg_trans bg_transcription="jiraf" bg_type="същ. име">Жираф</bg_trans>
+    <imgURL>http://img.thesun.co.uk/aidemitlum/archive/01161/giraffe-main_1161152a.jpg</imgURL>
+  </Word>
+  <Word id="9">
+    <en_trans en_transcription="rinoserus" en_type="noun">Rhinoceros</en_trans>
+    <de_trans de_transcription="das nashorn" de_type="Substantiv">das Nashorn</de_trans>
+    <bg_trans bg_transcription="nosorog" bg_type="същ. име">Носорог</bg_trans>
+    <imgURL>http://www.portaloko.hr/slika/40241/0/400/20/273/1046/0/crni-nosorog.jpg</imgURL>
+  </Word>
+  <Word id="10">
+    <en_trans en_transcription="beart" en_type="noun">Bird</en_trans>
+    <de_trans de_transcription="der fogel" de_type="Substantiv">der Vogel</de_trans>
+    <bg_trans bg_transcription="ptitsa" bg_type="същ. име">Птица</bg_trans>
+    <imgURL>https://i.ytimg.com/vi/s9dbAfjlrks/maxresdefault.jpg</imgURL>
+  </Word>
+</Words>
